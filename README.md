@@ -1,0 +1,2 @@
+# panzersk
+Server
